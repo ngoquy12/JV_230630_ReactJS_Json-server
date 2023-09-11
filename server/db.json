@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$lREVhH2iHK/0REBw/4uGUO20fq06NChVSMpV7TeDR3IluI/i.4K0a",
+      "id": 1
+    },
+    {
+      "email": "quy@gmail.com",
+      "password": "$2a$10$34MTcsxmmXSQaiiSxClVPu/ncil4UfCfy1BjImOCuaGvYDs0.1yO.",
+      "user_name": "quy",
+      "address": "Thanh Hoa",
+      "id": 2
+    }
+  ]
+}
